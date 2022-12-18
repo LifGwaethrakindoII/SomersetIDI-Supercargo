@@ -1,0 +1,617 @@
+fileFormatVersion: 2
+guid: e7db19c515775094ab0fd19d3f2c03a0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: agarradera1
+    100002: agarradera2
+    100004: Aiento_desplegable
+    100006: Aiento_desplegable1
+    100008: ala
+    100010: asiento_sobrecargos
+    100012: aspas1
+    100014: Bisagra
+    100016: bisagra
+    100018: Bisagra 1
+    100020: bisagra 1
+    100022: Boton1
+    100024: boton1
+    100026: Boton1 1
+    100028: boton10
+    100030: boton2
+    100032: boton3
+    100034: boton4
+    100036: boton5
+    100038: boton6
+    100040: boton7
+    100042: boton8
+    100044: boton9
+    100046: boton_seguro
+    100048: boton_seguro 1
+    100050: //RootNode
+    100052: Cabina_pasajeros_Cabina_pasajeros
+    100054: cajonera
+    100056: Cajonera2
+    100058: Cajones
+    100060: cristales_cristales
+    100062: cuerpo_puerta
+    100064: cuerpo_puerta 1
+    100066: Estacion
+    100068: Estacion 1
+    100070: Estacion_de_trolleys
+    100072: Estacion_sobrecargos
+    100074: Estacion_sobrecargos_asiento_sobrecargos_asiento_sobrecargos
+    100076: llantas_trolley
+    100078: llantas_trolley 1
+    100080: llantas_trolley 2
+    100082: llantas_trolley 3
+    100084: Mecanismos
+    100086: Mecanismos 1
+    100088: Monitor_aerocargos
+    100090: Palanca
+    100092: Palanca 1
+    100094: palanca__exterior_puerta_cabina
+    100096: palanca__exterior_puerta_cabina 1
+    100098: Palanca_exterior
+    100100: Palanca_exterior 1
+    100102: Palanca_interior
+    100104: Palanca_interior 1
+    100106: palanca_secundaria
+    100108: palanca_secundaria 1
+    100110: pantalla
+    100112: pared_frontal
+    100114: Paredtrasera
+    100116: pCube598
+    100118: pCube598 1
+    100120: pCube598 2
+    100122: pCube598 3
+    100124: pCube599
+    100126: pCube599 1
+    100128: pCube599 2
+    100130: pCube599 3
+    100132: pCube600
+    100134: pCube600 1
+    100136: pCube600 2
+    100138: pCube600 3
+    100140: pCube601
+    100142: pCube601 1
+    100144: pCube601 2
+    100146: pCube601 3
+    100148: pCube602
+    100150: pCube602 1
+    100152: pCylinder10
+    100154: pCylinder10 1
+    100156: pCylinder10 2
+    100158: pCylinder10 3
+    100160: pCylinder11
+    100162: pCylinder11 1
+    100164: pCylinder11 2
+    100166: pCylinder11 3
+    100168: pCylinder12
+    100170: pCylinder12 1
+    100172: pCylinder12 2
+    100174: pCylinder12 3
+    100176: pCylinder13
+    100178: pCylinder13 1
+    100180: pCylinder13 2
+    100182: pCylinder13 3
+    100184: polySurface234
+    100186: polySurface234 1
+    100188: polySurface236
+    100190: polySurface236 1
+    100192: Puerta_cabina
+    100194: Puerta_cabina2
+    100196: seguro_forntal_redondo
+    100198: seguro_frontal_aargado
+    100200: seguro_superior
+    100202: seguro_superior 1
+    100204: seguros_inferiores_cajonera
+    100206: Seguros_superiores_cajonera
+    100208: tapa_asiento
+    100210: tapa_asiento1
+    100212: Telefono
+    100214: trolley
+    100216: trolley 1
+    100218: trolley 2
+    100220: trolley 3
+    100222: Trolley1
+    100224: Trolley2
+    100226: Trolley3
+    100228: Trolley4
+    100230: Trolleys
+    100232: tv1
+    400000: agarradera1
+    400002: agarradera2
+    400004: Aiento_desplegable
+    400006: Aiento_desplegable1
+    400008: ala
+    400010: asiento_sobrecargos
+    400012: aspas1
+    400014: Bisagra
+    400016: bisagra
+    400018: Bisagra 1
+    400020: bisagra 1
+    400022: Boton1
+    400024: boton1
+    400026: Boton1 1
+    400028: boton10
+    400030: boton2
+    400032: boton3
+    400034: boton4
+    400036: boton5
+    400038: boton6
+    400040: boton7
+    400042: boton8
+    400044: boton9
+    400046: boton_seguro
+    400048: boton_seguro 1
+    400050: //RootNode
+    400052: Cabina_pasajeros_Cabina_pasajeros
+    400054: cajonera
+    400056: Cajonera2
+    400058: Cajones
+    400060: cristales_cristales
+    400062: cuerpo_puerta
+    400064: cuerpo_puerta 1
+    400066: Estacion
+    400068: Estacion 1
+    400070: Estacion_de_trolleys
+    400072: Estacion_sobrecargos
+    400074: Estacion_sobrecargos_asiento_sobrecargos_asiento_sobrecargos
+    400076: llantas_trolley
+    400078: llantas_trolley 1
+    400080: llantas_trolley 2
+    400082: llantas_trolley 3
+    400084: Mecanismos
+    400086: Mecanismos 1
+    400088: Monitor_aerocargos
+    400090: Palanca
+    400092: Palanca 1
+    400094: palanca__exterior_puerta_cabina
+    400096: palanca__exterior_puerta_cabina 1
+    400098: Palanca_exterior
+    400100: Palanca_exterior 1
+    400102: Palanca_interior
+    400104: Palanca_interior 1
+    400106: palanca_secundaria
+    400108: palanca_secundaria 1
+    400110: pantalla
+    400112: pared_frontal
+    400114: Paredtrasera
+    400116: pCube598
+    400118: pCube598 1
+    400120: pCube598 2
+    400122: pCube598 3
+    400124: pCube599
+    400126: pCube599 1
+    400128: pCube599 2
+    400130: pCube599 3
+    400132: pCube600
+    400134: pCube600 1
+    400136: pCube600 2
+    400138: pCube600 3
+    400140: pCube601
+    400142: pCube601 1
+    400144: pCube601 2
+    400146: pCube601 3
+    400148: pCube602
+    400150: pCube602 1
+    400152: pCylinder10
+    400154: pCylinder10 1
+    400156: pCylinder10 2
+    400158: pCylinder10 3
+    400160: pCylinder11
+    400162: pCylinder11 1
+    400164: pCylinder11 2
+    400166: pCylinder11 3
+    400168: pCylinder12
+    400170: pCylinder12 1
+    400172: pCylinder12 2
+    400174: pCylinder12 3
+    400176: pCylinder13
+    400178: pCylinder13 1
+    400180: pCylinder13 2
+    400182: pCylinder13 3
+    400184: polySurface234
+    400186: polySurface234 1
+    400188: polySurface236
+    400190: polySurface236 1
+    400192: Puerta_cabina
+    400194: Puerta_cabina2
+    400196: seguro_forntal_redondo
+    400198: seguro_frontal_aargado
+    400200: seguro_superior
+    400202: seguro_superior 1
+    400204: seguros_inferiores_cajonera
+    400206: Seguros_superiores_cajonera
+    400208: tapa_asiento
+    400210: tapa_asiento1
+    400212: Telefono
+    400214: trolley
+    400216: trolley 1
+    400218: trolley 2
+    400220: trolley 3
+    400222: Trolley1
+    400224: Trolley2
+    400226: Trolley3
+    400228: Trolley4
+    400230: Trolleys
+    400232: tv1
+    2100000: Interior_avion
+    2100002: Alfombra
+    2100004: Glowing_material
+    2100006: Exterior_avion
+    2100008: Aspas
+    2100010: Alas
+    2100012: Plane
+    2100014: lambert1
+    2100016: Agarradera1
+    2100018: cristales1
+    2100020: bisagra1
+    2100022: Seguro_boton
+    2100024: Cuerpo_Puerta
+    2100026: blinn7
+    2100028: puerta_avierta
+    2100030: Cabina_presurisada
+    2100032: indicador_puerta
+    2100034: Estaciones
+    2100036: seguro_trollei
+    2100038: plastico_seguro_rojo
+    2100040: Trolei
+    2100042: rin_trolei
+    2100044: llantitas_trolei
+    2100046: asientos_estacion
+    2100048: asiento_desplegable_estacion
+    2100050: marco_Pantalla
+    2100052: pantalla_borde
+    2100054: pantalla1
+    2100056: Boton_grande
+    2100058: Boton
+    2300000: agarradera1
+    2300002: agarradera2
+    2300004: Aiento_desplegable
+    2300006: Aiento_desplegable1
+    2300008: ala
+    2300010: aspas1
+    2300012: bisagra
+    2300014: bisagra 1
+    2300016: Boton1
+    2300018: boton1
+    2300020: Boton1 1
+    2300022: boton10
+    2300024: boton2
+    2300026: boton3
+    2300028: boton4
+    2300030: boton5
+    2300032: boton6
+    2300034: boton7
+    2300036: boton8
+    2300038: boton9
+    2300040: boton_seguro
+    2300042: boton_seguro 1
+    2300044: Cabina_pasajeros_Cabina_pasajeros
+    2300046: cajonera
+    2300048: Cajonera2
+    2300050: cristales_cristales
+    2300052: Estacion
+    2300054: Estacion 1
+    2300056: Estacion_sobrecargos_asiento_sobrecargos_asiento_sobrecargos
+    2300058: Palanca
+    2300060: Palanca 1
+    2300062: Palanca_interior
+    2300064: Palanca_interior 1
+    2300066: palanca_secundaria
+    2300068: palanca_secundaria 1
+    2300070: pantalla
+    2300072: pared_frontal
+    2300074: Paredtrasera
+    2300076: pCube598
+    2300078: pCube598 1
+    2300080: pCube598 2
+    2300082: pCube598 3
+    2300084: pCube599
+    2300086: pCube599 1
+    2300088: pCube599 2
+    2300090: pCube599 3
+    2300092: pCube600
+    2300094: pCube600 1
+    2300096: pCube600 2
+    2300098: pCube600 3
+    2300100: pCube601
+    2300102: pCube601 1
+    2300104: pCube601 2
+    2300106: pCube601 3
+    2300108: pCube602
+    2300110: pCube602 1
+    2300112: pCylinder10
+    2300114: pCylinder10 1
+    2300116: pCylinder10 2
+    2300118: pCylinder10 3
+    2300120: pCylinder11
+    2300122: pCylinder11 1
+    2300124: pCylinder11 2
+    2300126: pCylinder11 3
+    2300128: pCylinder12
+    2300130: pCylinder12 1
+    2300132: pCylinder12 2
+    2300134: pCylinder12 3
+    2300136: pCylinder13
+    2300138: pCylinder13 1
+    2300140: pCylinder13 2
+    2300142: pCylinder13 3
+    2300144: polySurface236
+    2300146: polySurface236 1
+    2300148: seguro_forntal_redondo
+    2300150: seguro_frontal_aargado
+    2300152: seguro_superior
+    2300154: seguro_superior 1
+    2300156: seguros_inferiores_cajonera
+    2300158: Seguros_superiores_cajonera
+    2300160: tapa_asiento
+    2300162: tapa_asiento1
+    2300164: Telefono
+    2300166: trolley
+    2300168: trolley 1
+    2300170: trolley 2
+    2300172: trolley 3
+    2300174: tv1
+    3300000: agarradera1
+    3300002: agarradera2
+    3300004: Aiento_desplegable
+    3300006: Aiento_desplegable1
+    3300008: ala
+    3300010: aspas1
+    3300012: bisagra
+    3300014: bisagra 1
+    3300016: Boton1
+    3300018: boton1
+    3300020: Boton1 1
+    3300022: boton10
+    3300024: boton2
+    3300026: boton3
+    3300028: boton4
+    3300030: boton5
+    3300032: boton6
+    3300034: boton7
+    3300036: boton8
+    3300038: boton9
+    3300040: boton_seguro
+    3300042: boton_seguro 1
+    3300044: Cabina_pasajeros_Cabina_pasajeros
+    3300046: cajonera
+    3300048: Cajonera2
+    3300050: cristales_cristales
+    3300052: Estacion
+    3300054: Estacion 1
+    3300056: Estacion_sobrecargos_asiento_sobrecargos_asiento_sobrecargos
+    3300058: Palanca
+    3300060: Palanca 1
+    3300062: Palanca_interior
+    3300064: Palanca_interior 1
+    3300066: palanca_secundaria
+    3300068: palanca_secundaria 1
+    3300070: pantalla
+    3300072: pared_frontal
+    3300074: Paredtrasera
+    3300076: pCube598
+    3300078: pCube598 1
+    3300080: pCube598 2
+    3300082: pCube598 3
+    3300084: pCube599
+    3300086: pCube599 1
+    3300088: pCube599 2
+    3300090: pCube599 3
+    3300092: pCube600
+    3300094: pCube600 1
+    3300096: pCube600 2
+    3300098: pCube600 3
+    3300100: pCube601
+    3300102: pCube601 1
+    3300104: pCube601 2
+    3300106: pCube601 3
+    3300108: pCube602
+    3300110: pCube602 1
+    3300112: pCylinder10
+    3300114: pCylinder10 1
+    3300116: pCylinder10 2
+    3300118: pCylinder10 3
+    3300120: pCylinder11
+    3300122: pCylinder11 1
+    3300124: pCylinder11 2
+    3300126: pCylinder11 3
+    3300128: pCylinder12
+    3300130: pCylinder12 1
+    3300132: pCylinder12 2
+    3300134: pCylinder12 3
+    3300136: pCylinder13
+    3300138: pCylinder13 1
+    3300140: pCylinder13 2
+    3300142: pCylinder13 3
+    3300144: polySurface236
+    3300146: polySurface236 1
+    3300148: seguro_forntal_redondo
+    3300150: seguro_frontal_aargado
+    3300152: seguro_superior
+    3300154: seguro_superior 1
+    3300156: seguros_inferiores_cajonera
+    3300158: Seguros_superiores_cajonera
+    3300160: tapa_asiento
+    3300162: tapa_asiento1
+    3300164: Telefono
+    3300166: trolley
+    3300168: trolley 1
+    3300170: trolley 2
+    3300172: trolley 3
+    3300174: tv1
+    4300000: Cabina_pasajeros_Cabina_pasajeros
+    4300002: aspas1
+    4300004: ala
+    4300006: pared_frontal
+    4300008: Paredtrasera
+    4300010: agarradera1
+    4300012: agarradera2
+    4300014: cristales_cristales
+    4300016: bisagra
+    4300018: boton_seguro
+    4300020: Palanca
+    4300022: Boton1
+    4300024: palanca_secundaria
+    4300026: pCube602
+    4300028: seguro_superior
+    4300030: Palanca_interior
+    4300032: polySurface236
+    4300034: bisagra
+    4300036: boton_seguro
+    4300038: Palanca
+    4300040: Boton1
+    4300042: palanca_secundaria
+    4300044: pCube602
+    4300046: seguro_superior
+    4300048: Palanca_interior
+    4300050: polySurface236
+    4300052: Estacion
+    4300054: seguro_forntal_redondo
+    4300056: seguro_frontal_aargado
+    4300058: Seguros_superiores_cajonera
+    4300060: seguros_inferiores_cajonera
+    4300062: cajonera
+    4300064: trolley
+    4300066: pCube598
+    4300068: pCylinder10
+    4300070: pCube599
+    4300072: pCylinder11
+    4300074: pCube600
+    4300076: pCylinder12
+    4300078: pCube601
+    4300080: pCylinder13
+    4300082: trolley
+    4300084: pCube598
+    4300086: pCylinder10
+    4300088: pCube599
+    4300090: pCylinder11
+    4300092: pCube600
+    4300094: pCylinder12
+    4300096: pCube601
+    4300098: pCylinder13
+    4300100: trolley
+    4300102: pCube598
+    4300104: pCylinder10
+    4300106: pCube599
+    4300108: pCylinder11
+    4300110: pCube600
+    4300112: pCylinder12
+    4300114: pCube601
+    4300116: pCylinder13
+    4300118: trolley
+    4300120: pCube598
+    4300122: pCylinder10
+    4300124: pCube599
+    4300126: pCylinder11
+    4300128: pCube600
+    4300130: pCylinder12
+    4300132: pCube601
+    4300134: pCylinder13
+    4300136: Cajonera2
+    4300138: Estacion
+    4300140: Telefono
+    4300142: tapa_asiento
+    4300144: Aiento_desplegable
+    4300146: Aiento_desplegable1
+    4300148: Estacion_sobrecargos_asiento_sobrecargos_asiento_sobrecargos
+    4300150: tapa_asiento1
+    4300152: tv1
+    4300154: pantalla
+    4300156: boton1
+    4300158: boton2
+    4300160: boton3
+    4300162: boton4
+    4300164: boton5
+    4300166: boton6
+    4300168: boton7
+    4300170: boton8
+    4300172: boton9
+    4300174: boton10
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

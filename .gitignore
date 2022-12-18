@@ -1,0 +1,10 @@
+Library/
+Temp/
+obj/
+.vs/
+*.sublime-project
+*.sublime-workspace
+*.csproj
+*.ide
+*.ide-shm
+*.ide-wal
